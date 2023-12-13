@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NotisWeather/static/css/main.35c42b2b.css",
+    "main.js": "/NotisWeather/static/js/main.c06f68a4.js",
+    "static/js/787.a893e4db.chunk.js": "/NotisWeather/static/js/787.a893e4db.chunk.js",
+    "static/media/cloud.png": "/NotisWeather/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/NotisWeather/index.html",
+    "main.35c42b2b.css.map": "/NotisWeather/static/css/main.35c42b2b.css.map",
+    "main.c06f68a4.js.map": "/NotisWeather/static/js/main.c06f68a4.js.map",
+    "787.a893e4db.chunk.js.map": "/NotisWeather/static/js/787.a893e4db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35c42b2b.css",
+    "static/js/main.c06f68a4.js"
+  ]
+}
